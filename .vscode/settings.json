@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.Profiles.windows":{
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell",
+            "args": [
+                "-ExecutiePolicy",
+                "Bypass"
+            ]
+        }
+    },
+    "terminal.integreted.defaultProfile.windows": "PowerShell"
+}
